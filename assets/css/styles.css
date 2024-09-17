@@ -362,6 +362,7 @@ img {
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
+  mrgin-top: 20px;
 
 }
 
