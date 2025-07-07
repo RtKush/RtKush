@@ -1,4 +1,4 @@
-:<br>💫 Hi 👋, I'm Kush Kumar<br>A passionate Software Engineer.<br><br>Email Me 👉 ✉️ kush22aur@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: AI & ML Project.<br>🌱 I’m currently learning: Machine Learning.<br>💬 Ask me about: Collaboration, Tech Support...<br>📫 How to reach me: kush22aur@gmail.com<br>😄 Pronouns: Rt Kush (Kush Kumar)<br>⚡ Fun fact: I Love Tech and Tech Love Me.
+<br>💫 Hi 👋, I'm Kush Kumar<br>A passionate Software Engineer.<br><br>Email Me 👉 ✉️ kush22aur@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: AI & ML Project.<br>🌱 I’m currently learning: Machine Learning.<br>💬 Ask me about: Collaboration, Tech Support...<br>📫 How to reach me: kush22aur@gmail.com<br>😄 Pronouns: Rt Kush (Kush Kumar)<br>⚡ Fun fact: I Love Tech and Tech Love Me.
 
 
 ## 🌐 Socials:
